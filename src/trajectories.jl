@@ -1,5 +1,3 @@
-using Plots
-using Plots.PlotMeasures
 using DataFrames
 using CSV
 
